@@ -19,6 +19,11 @@ Working with remotes in git is super easy.
 
 ![Done](./screenshots/remote-operations.PNG "Done")
 
+## I made a change on GitHub.
+
+## Different changes
+
+
 ## An uncommitted change?
 
 ## Some changes
