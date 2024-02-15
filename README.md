@@ -27,3 +27,12 @@ Working with remotes in git is super easy.
 ## An uncommitted change?
 
 ## Some changes
+
+## Git Rebase
+
+It's much easier to resolve merge conflicts with the vs code merge conflict UI. There's a final result UI and a UI for each version of the document.
+
+![](./screenshots/made-a-change-on-github-proof.PNG "Made a change on github")
+![](./screenshots/git-rebase-part-1.PNG "Part 1")
+![](./screenshots/different-changes.PNG "Different Changes")
+![](./screenshots/git-rebase-step-7.PNG "Step 7")
