@@ -18,3 +18,7 @@ Learned about git tags and git describe. The practice was closer to real-world p
 Working with remotes in git is super easy.
 
 ![Done](./screenshots/remote-operations.PNG "Done")
+
+## An uncommitted change?
+
+## Some changes
