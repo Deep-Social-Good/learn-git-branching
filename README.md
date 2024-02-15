@@ -36,3 +36,11 @@ It's much easier to resolve merge conflicts with the vs code merge conflict UI. 
 ![](./screenshots/git-rebase-part-1.PNG "Part 1")
 ![](./screenshots/different-changes.PNG "Different Changes")
 ![](./screenshots/git-rebase-step-7.PNG "Step 7")
+
+## Transfer to Organization
+
+It was easier than expected. Just a few clicks. 
+
+[https://github.com/Deep-Social-Good/learn-git-branching](https://github.com/Deep-Social-Good/learn-git-branching)
+
+!["My Org's Repos"](./screenshots/org.PNG "My Org's Repos")
